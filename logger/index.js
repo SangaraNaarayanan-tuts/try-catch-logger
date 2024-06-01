@@ -8,6 +8,7 @@ const logger = {
   },
   error: function (details, error) {
     console.error(`[ERROR] [${this.currentTime}] ${details}`);
+
     if (error) {
       console.log(JSON.stringify(error, null, 5));
     }
