@@ -1,11 +1,19 @@
 {
   "name": "try-catch-logger",
   "version": "1.0.0",
-  "description": "A utility package for your repetitive try catch with a proper logging format of industry standard",
-  "main": "index.js",
+  "description": "A utility package for your repetitive try catch with a proper industry standard logging format with both async and normal function compatible.",
+  "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.2.0"
+  }
 }
