@@ -1,0 +1,11 @@
+{
+  "name": "try-catch-logger",
+  "version": "1.0.0",
+  "description": "A utility package for your repetitive try catch with a proper logging format of industry standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
