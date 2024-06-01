@@ -1,7 +1,7 @@
 {
   "name": "try-catch-logger",
   "version": "1.0.0",
-  "description": "A utility package for your repetitive try catch with a proper industry standard logging format with both async and normal function compatible.",
+  "description": "A utility package for your repetitive try catch with a proper standard logging format with both async and normal function compatible.",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
