@@ -1,6 +1,6 @@
 {
   "name": "try-catch-logger",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "A utility package for your repetitive try catch with a proper standard logging format with both async and normal function compatible.",
   "main": "./lib/index.js",
   "scripts": {
