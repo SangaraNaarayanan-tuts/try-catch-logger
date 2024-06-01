@@ -4,12 +4,6 @@
 A utility package for handling repetitive try-catch blocks, compatible with both asynchronous and synchronous functions, featuring standard logging formats.
 
 
-## Badges 
-This is an open-source package with a MIT License.
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
 ## Authors
 
 - [@SangaraNaarayanan-tuts](https://www.github.com/SangaraNaarayanan-tuts)
@@ -73,3 +67,8 @@ mainFunc()
 
 If you have any feedback, please reach out to us at sangartuts@gmail.com
 
+
+## License 
+This is an open-source package with a MIT License.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
